@@ -1,0 +1,9 @@
+[package]
+name = "rust-starter"
+version = "0.1.0"
+authors = ["zsirfs <zhenglfsir@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+
+rand = "0.7.2"
